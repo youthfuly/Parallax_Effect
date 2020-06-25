@@ -16,19 +16,19 @@ body, html {
     text-align: center;
 }
 .parallax1 {
-    background-image: url(New\ day.png);
+    background-image: url(img/New\ day.png);
     min-height: 100%;
 }
 .parallax2 {
-    background-image: url(New\ sun.jpg);
+    background-image: url(img/New\ sun.jpg);
     min-height: 60%;
 }
 .parallax3 {
-    background-image: url(Power.png);
+    background-image: url(img/Power.png);
     min-height: 40%;
 }
 .parallax4 {
-    background-image: url(Birdy.jpg);
+    background-image: url(img/Birdy.jpg);
     min-height: 100%;
 }
 
